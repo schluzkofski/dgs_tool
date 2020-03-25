@@ -4,7 +4,10 @@
 Installation
 ============
 
-First of all you need a working Python 3 environment. On Windows it is easiest to use [Anaconda](https://www.anaconda.com/distribution/) .   
+First of all you need a working Python 3 environment. On Windows it is easiest to use `anaconda`_.   
+
+.. _anaconda:
+  https://www.anaconda.com/distribution/
 
 Next clone or download the repository to your local file system and install it through:
 
