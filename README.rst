@@ -4,7 +4,7 @@
 Installation
 ============
 
-First of all you need a working Python 3 environment. On Windows it is easiest to use `anaconda`_ and best to install anaconda directly under C: (not C:\Program Files as it contains a whitespace).  
+First of all you need a working Python 3 environment. On Windows it is easiest to use `anaconda`_ and best to install anaconda directly under C: (not C:\\Program Files as it contains a whitespace).  
 
 .. _anaconda:
   https://www.anaconda.com/distribution/
@@ -13,7 +13,6 @@ We highly recommend to use virtual environments. Please see the
 `installation page`_ of the oemof documentation for complete
 instructions on how to install python and a virtual environment on your
 operating system.
-
 In case of anaconda see the `getting started`_ on how to work with environments in anaconda.
 
 .. _getting started: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
