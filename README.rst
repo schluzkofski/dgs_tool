@@ -17,6 +17,12 @@ In case of anaconda see the `getting started`_ on how to work with environments 
 
 .. _getting started: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
+As installation of geopackages is known to cause problems when installing them using pip on Windows, please install the python package fiona using conda:
+
+.. code::
+
+    conda install fiona
+
 Next clone or download the repository to your local file system and install it through:
 
 .. code::
